@@ -16,7 +16,7 @@
 
 4. Screenshot results of required use cases - Tutorial Module
 
-   ![image](https://github.com/ShilpaBai/Beauty_AI_298_T5/assets/113278165/ddd6de22-e058-4679-bad3-53a4df30a772)
+![image](https://github.com/ShilpaBai/Beauty_AI_298_T5/assets/113278165/ddd6de22-e058-4679-bad3-53a4df30a772)
 
 
 
